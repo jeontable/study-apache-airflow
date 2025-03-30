@@ -1,0 +1,1 @@
+pip install "git+https://github.com/jeontable/study-apache-airflow.git@main#egg=airflow_movielens&subdirectory=chapter08/airflow-movielens"

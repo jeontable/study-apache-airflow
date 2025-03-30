@@ -1,0 +1,1 @@
+docker run -d --name eventapi -p 5000:5000 eventapi

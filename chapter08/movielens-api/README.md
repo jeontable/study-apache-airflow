@@ -1,0 +1,1 @@
+docker run -d --name movielensapi -p 5000:5000 -e API_USER=airflow -e API_PASSWORD=airflow movielensapi
